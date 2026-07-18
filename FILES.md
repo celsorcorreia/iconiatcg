@@ -1,9 +1,14 @@
-# Arquivos gerados
+# Arquivos do repositório
 
+Este pacote contém **68 arquivos**, incluindo este manifesto.
+
+- `FILES.md`
+- `.gitattributes`
 - `CHANGELOG.md`
 - `CONTRIBUTING.md`
 - `README.md`
 - `assets/README.md`
+- `backlog.md`
 - `docs/00-central-do-projeto/README.md`
 - `docs/00-central-do-projeto/decisoes-de-regras.md`
 - `docs/00-central-do-projeto/decisoes-recentes.md`
@@ -55,6 +60,8 @@
 - `docs/06-playtests/partida-guiada.md`
 - `docs/06-playtests/sessoes.md`
 - `docs/06-playtests/validacao-v1.0.md`
+- `pendencias-de-regras.md`
+- `regras-principais.md`
 - `templates/README.md`
 - `templates/bug.md`
 - `templates/carta.md`
